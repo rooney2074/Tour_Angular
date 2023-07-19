@@ -1,0 +1,121 @@
+[
+    {
+        "name":"Venice",
+        "type":"purpose",
+        "image":"https://images.unsplash.com/photo-1558271736-cd043ef2e855?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80",
+        "price":3000,
+        "rating":4.5
+    },
+    {
+        "name":"Santorini",
+        "type":"purpose",
+        "image":"https://images.unsplash.com/photo-1580502304784-8985b7eb7260?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "price":3500,
+        "rating":4.4
+    },
+    {
+        "name":"krabi",
+        "type":"purpose",
+        "image":"https://images.unsplash.com/photo-1585086814041-c5d629a6b8c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "price":3200,
+        "rating":4.3
+    },
+    {
+        "name":"The Maldives",
+        "type":"purpose",
+        "image":"https://images.unsplash.com/photo-1590602390809-a890807193ec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1399&q=80",
+        "price":4000,
+        "rating":4.6
+    },
+    {
+        "name":"The Seychelles",
+        "type":"purpose",
+        "image":"https://images.unsplash.com/photo-1620141371597-02fc41b74cea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "price":3800,
+        "rating":4.2
+    },
+    {
+        "name":"London",
+        "type":"business",
+        "image":"https://images.unsplash.com/photo-1517394834181-95ed159986c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80",
+        "price":3000,
+        "rating":4.4
+    },
+    {
+        "name":"Singapore",
+        "type":"business",
+        "image":"https://images.unsplash.com/photo-1542114740389-9b46fb1e5be7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80",
+        "price":3200,
+        "rating":4.3
+    },
+    {
+        "name":"Louisville",
+        "type":"business",
+        "image":"https://images.unsplash.com/photo-1628559787883-943086f88d9a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "price":3500,
+        "rating":4.5
+    },
+    {
+        "name":"Mexico City",
+        "type":"business",
+        "image":"https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "price":2900,
+        "rating":4.7
+    },
+    {
+        "name":" Shangri-La Bosphorus, Istanbul",
+        "type":"hotel",
+        "image":"https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+        "price":3000,
+        "rating":4.5
+    },
+    {
+        "name":" The Marker Hotel — Dublin",
+        "type":"hotel",
+        "image":"https://images.unsplash.com/photo-1445019980597-93fa8acb246c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80",
+        "price":3200,
+        "rating":4.6
+    },
+    {
+        "name":" Four Seasons Hotel Bangkok at Chao Phraya River — Thailand",
+        "type":"hotel",
+        "image":"https://images.unsplash.com/photo-1512553353614-82a7370096dc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80",
+        "price":4000,
+        "rating":4.7
+    },
+    {
+        "name":"The Drake Oak Brook, Autograph Collection — Illinois, U.S.",
+        "type":"hotel",
+        "image":"https://images.unsplash.com/photo-1673168551797-469882214189?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "price":3500,
+        "rating":4.3
+    },
+    {
+        "name":"Purple Island",
+        "type":"holiday",
+        "image":"https://images.unsplash.com/photo-1442323794357-25b2ec110967?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "price":3800,
+        "rating":4.4
+    },
+    {
+        "name":"Desert Falls Water and Adventure Park",
+        "type":"holiday",
+        "image":"https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80",
+        "price":3500,
+        "rating":4.2
+    },
+    {
+        "name":"Khor Al Adaid Beach",
+        "type":"holiday",
+        "image":"https://images.unsplash.com/photo-1646211059552-9a61fc7ef457?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+        "price":3000,
+        "rating":4.3
+    },
+    {
+        "name":"The Ritz-Carlton Sharq Village, Doha ",
+        "type":"holiday",
+        "image":"https://images.unsplash.com/photo-1645894522620-c55815b3ec56?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "price":3500,
+        "rating":4.6
+    }
+]

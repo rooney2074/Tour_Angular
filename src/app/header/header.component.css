@@ -1,0 +1,19 @@
+
+.navbar{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    top: 0;
+}
+.nav-link{
+    transition: 0.8s;
+    margin-left: 10px;
+    border-bottom: 3px solid  rgba( 255, 255, 255, 0);
+}
+.nav-link:hover{
+    background: rgba(0, 0, 0, 0.1);
+    border-bottom: 3px solid black;
+}
+.login{
+    border: 3px solid rgb(177, 177, 177); text-decoration: none; border-radius: 20px;
+}

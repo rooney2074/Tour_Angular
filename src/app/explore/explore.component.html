@@ -1,0 +1,30 @@
+<div class="vessel">
+    <div class="container-fluid" style="margin-top:80px;">
+        <div class="row mx-auto py-md-2 w-100">
+            <div class="col-md-4 mt-5 px-lg-4 p-3 text-center" style="background-image: url('https://images.unsplash.com/photo-1495121553079-4c61bcce1894?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1581&q=80'); background-size: cover; border-radius: 10px;">
+                <h3 class="mt-5">“The world is a book and those who do not travel read only one page.”</h3>
+            </div>
+            <div class="col-md-8 mt-5 px-lg-4 px-1">
+                <h1><b style="color: rgb(170, 167, 167);">E</b>xplore.</h1>
+                <div class="p-2 scrollmenu">
+                    <div class="row mx-auto mt-3 py-md-4 w-100" id="card"  *ngFor="let i of places">
+                        <div class="col-md-8 px-lg-4 px-1">
+                            <img src="{{i.image}}" width="100%"  style="border-radius: 10px;" alt="">
+                        </div>
+                        <div class="col-md-4 mt-3 px-lg-4">
+                            <h3>{{i.name}}</h3>
+                            <h6>{{i.description}}</h6><br><br>
+                            <h6><b>Rating: </b>{{i.rating}}</h6>
+                            <p><b>Price Per Head: </b>{{i.price}}/-</p>
+                            <br>
+                            <button class="btn btn-outline-dark button" (click)="book(i)">Book Now</button><br><br>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+<app-footer></app-footer>

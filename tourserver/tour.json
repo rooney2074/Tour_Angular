@@ -1,0 +1,166 @@
+[
+    {
+      "id": 1,
+      "name": "New York City",
+      "description": "The city that never sleeps",
+      "rating": 4.5,
+     "image":"https://images.unsplash.com/photo-1556807044-eaf2e0eecb6d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "price": 2000
+    },
+    {
+      "id": 2,
+      "name": "Paris",
+      "description": "The City of Love",
+      "rating": 4.8,
+      "image":"https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80",
+      "price": 2500
+    },
+    {
+      "id": 3,
+      "name": "Tokyo",
+      "description": "The Capital of Japan",
+      "rating": 4.7,
+      "image":"https://images.unsplash.com/photo-1533050487297-09b450131914?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "price": 3000
+    },
+    {
+      "id": 4,
+      "name": "Sydney",
+      "description": "The Harbor City",
+      "rating": 4.6,
+      "image":"https://images.unsplash.com/photo-1612953293239-4befdc359b72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "price": 2200
+    },
+    {
+      "id": 5,
+      "name": "Dubai",
+      "description": "The City of Gold",
+      "rating": 4.9,
+      "image":"https://images.unsplash.com/photo-1512453979798-5ea266f8880c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+
+      "price": 3500
+    },
+    {
+      "id": 6,
+      "name": "Bali",
+      "description": "The Island of the Gods",
+      "rating": 4.4,
+      "image":"https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+     "price": 1800
+    },
+    {
+      "id": 7,
+      "name": "Rome",
+      "description": "The Eternal City",
+      "rating": 4.7,
+      "image":"https://images.unsplash.com/photo-1531572753322-ad063cecc140?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1776&q=80",
+
+      "price": 2800
+    },
+    {
+      "id": 8,
+      "name": "Cape Town",
+      "description": "The Mother City",
+      "rating": 4.5,
+      "image":"https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "price": 2400
+    },
+    {
+      "id": 9,
+      "name": "Amsterdam",
+      "description": "The Venice of the North",
+      "rating": 4.6,
+      "image":"https://images.unsplash.com/photo-1459679749680-18eb1eb37418?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "price": 2600
+    },
+    {
+      "id": 10,
+      "name": "Rio de Janeiro",
+      "description": "The Marvelous City",
+      "rating": 4.8,
+      "image":"https://images.unsplash.com/photo-1516306580123-e6e52b1b7b5f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=926&q=80",
+      "price": 3200
+    },
+    {
+      "id": 11,
+      "name": "Barcelona",
+      "description": "A cosmopolitan city with a rich cultural heritage",
+      "rating": 4.7,
+      "image":"https://images.unsplash.com/photo-1539037116277-4db20889f2d4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+
+      "price": 2800
+    },
+    {
+      "id": 12,
+      "name": "Cusco",
+      "description": "A charming Peruvian city with Incan ruins and Spanish colonial architecture",
+      "rating": 4.5,
+      "image":"https://images.unsplash.com/photo-1545330785-15356daae141?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=990&q=80",
+      "price": 2600
+    },
+    {
+      "id": 13,
+      "name": "Krabi",
+      "description": "A coastal province in southern Thailand known for its stunning beaches and clear waters",
+      "rating": 4.6,
+      "image":"https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=839&q=80",
+      "price": 2400
+    },
+    {
+      "id": 14,
+      "name": "San Francisco",
+      "description": "A vibrant city in California with iconic landmarks and a rich history",
+      "rating": 4.8,
+      "image":"https://plus.unsplash.com/premium_photo-1670103704048-cdc2a3f2146a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "price": 3000
+    },
+    {
+      "id": 15,
+      "name": "Seoul",
+      "description": "The bustling capital of South Korea with a rich history and culture",
+      "rating": 4.7,
+      "image":"https://images.unsplash.com/photo-1517154421773-0529f29ea451?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "price": 3200
+    },
+    {
+      "id": 16,
+      "name": "Cape Verde",
+      "description": "A group of islands off the coast of West Africa with a mix of African and Portuguese culture",
+      "rating": 4.4,
+      "image":"https://images.unsplash.com/photo-1617173883936-9f118045ad7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",     
+       "price": 2200
+    },
+    {
+      "id": 17,
+      "name": "Budapest",
+      "description": "A city in Hungary with a rich history and stunning architecture",
+      "rating": 4.5,
+      "image":"https://images.unsplash.com/photo-1507622560124-621e26755fb8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "price": 2600
+    },
+    {
+      "id": 18,
+      "name": "Hawaii",
+      "description": "A group of islands in the Pacific Ocean with stunning natural beauty and rich culture",
+      "rating": 4.9,
+      "image"  :"https://images.unsplash.com/photo-1462400362591-9ca55235346a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=832&q=80",   
+       "price": 4000
+    },
+    {
+      "id": 19,
+      "name": "Queenstown",
+      "description": "A picturesque town in New Zealand known for its stunning landscapes and adventure activities",
+      "rating": 4.8,
+      "image":"https://images.unsplash.com/photo-1593755673003-8ca8dbf906c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80", 
+           "price": 3500
+    },
+    {
+      "id": 20,
+      "name": "Santorini",
+      "description": "A stunning island in Greece known for its white-washed buildings and stunning sunsets",
+      "rating": 4.7,
+      "image":"https://images.unsplash.com/photo-1563789031959-4c02bcb41319?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+      "price": 3000
+    }
+
+  ]

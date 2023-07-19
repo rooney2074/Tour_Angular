@@ -1,0 +1,8 @@
+.login{
+    border: 3px solid rgb(177, 177, 177); text-decoration: none; border-radius: 20px;
+}
+.form-control{
+    border: none;
+    border-radius: 30px;
+    background: rgb(0, 0, 0,0.3);
+}

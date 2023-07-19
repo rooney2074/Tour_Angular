@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="vessel">
+        
+        <div class="container text-center" style="margin-top: 120px;">
+            <h2>{{show.name}}</h2>
+                    <h6>{{show.description}}</h6><br><br>
+                    <h6><b>Rating: </b>{{show.rating}}</h6>
+                    <p><b>Price Per Head: </b>{{show.price}}/-</p>
+                    <br>
+                    
+
+                    <p>I’ve heard there are people who believe that “getting there is half the fun.” But to me, everything that happens between my decision to leave my house and my lying on a beach chair with a fruity drink in my hand is just stress-inducing static and delayed gratification.
+
+                        To reduce the friction I’m likely to experience when I embark on a trip, I rely on the advice and assistance that travel experts provide online. And, judging from the sheer number of content creators who operate in this space, I’m not the only one.
+                        
+                        
+                        With so many touchpoints to engage with</p>
+        </div>
+        <div class="container mb-5">
+            <img src="{{show.image}}" width="100%" style="border-radius: 10px;" alt="">
+            <div class="d-flex mt-3">
+                <input [(ngModel)]="head" type="text" placeholder="Enter Number of People" class="form-control w-50">&nbsp;
+                <button class="btn btn-outline-dark" (click)="ok()">OK</button>
+            </div><br>
+
+            <div *ngIf="total.length!==0">
+                <h3>Total: <b style="color:red;">{{total}}/-</b></h3>
+                <img width="25%" src="https://i.pinimg.com/originals/bc/84/7b/bc847b498e3bb476e894b29f0795caa0.png" alt="">
+                <h1>Grand Total: <b style="color: red;">{{grand}}/-</b></h1>
+            </div>
+        </div>
+    </div>
+    <app-footer></app-footer>
+</body>
+</html>
